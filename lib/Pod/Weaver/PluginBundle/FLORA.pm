@@ -48,7 +48,7 @@ This plugin bundle is equivalent to the following weaver.ini file:
 
   [Collect / FUNCTIONS]
   command = func
-  
+
   [Collect / TYPES]
   command = type
 
